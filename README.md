@@ -1,6 +1,6 @@
-# Hasura Con 2020 CFP
+# Hasura Con 2022 CFP
 
-Hey there, we are so excited that you're interested in speaking at the first ever Hasura Con (our online Hasura conference)! The talks will be held from 9am - 12 pm PST on 8th, 9th & 10 of June.
+Hey there, HasuraCon - our annual user conference - is back for the 3rd edition in 2022 and CFPs are currently open! This year, HasuraCon will be hosted online between the 28th and 30th of June. 
 
 This is a conference for our users & the community! We'd love to hear you speak if you are using Hasura in your applications, are part of the community, building tooling around Hasura or work at a company whose products work very well with Hasura!
 
@@ -14,4 +14,4 @@ Talk topic ideas:
 
 These are indicative topic themes! Please do submit talks even if they don't fit into these themes!
 
-Submit your ideas here -> [Link](https://docs.google.com/forms/d/e/1FAIpQLScW8-f8XBStaODlg_FgieTmtuv2XyqrvKYRBT7hzdmjHpVerw/viewform).
+Submit your ideas here -> [Link](https://forms.hasura.io/hascon22-cfp).
