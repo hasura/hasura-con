@@ -1,17 +1,13 @@
-# Hasura Con 2022 CFP
+# [Hasura Con 2023](https://hasura.io/events/hasura-con-2023?utm_source=GitHub&utm_medium=social&utm_campaign=2023-06_HasuraCon) | June 20 - 22, 2023
 
-Hey there, HasuraCon - our annual user conference - is back for the 3rd edition in 2022 and CFPs are currently open! This year, HasuraCon will be hosted online between the 28th and 30th of June. 
+Join us for three days to learn, share, celebrate, and geek out on the future of Hasura and GraphQL.
 
-This is a conference for our users & the community! We'd love to hear you speak if you are using Hasura in your applications, are part of the community, building tooling around Hasura or work at a company whose products work very well with Hasura!
+[HasuraCon 2023](https://hasura.io/events/hasura-con-2023?utm_source=GitHub&utm_medium=social&utm_campaign=2023-06_HasuraCon) is three days of hands-on workshops, product deep dives, customer success stories, and community-sourced use cases. Hundreds of current and future users attend HasuraCon to learn about the future of Hasura and GraphQL. GraphQL APIs are reshaping the world of data delivery and access, enabling enterprises to do more with their data by serving it where it’s needed and when it’s needed in a fast, secure, and flexible way. HasuraCon is all about learning, sharing, and understanding the future of this shift and engaging with like-minded professionals in the world of data and APIs.
 
-Talk topic ideas:
-* Use-cases & product showcases of applications built with Hasura.
-* Insights around using Hasura for the industry that your product is in.
-* Reference architecture of your Hasura apps.
-* Tooling that you've created that works well with Hasura.
-* Product integrations with Hasura (devrels, this one is for you :)).
-* Community oriented talks around using Hasura or being a part of the Hasura community.
+* **Engage**: This will be a great event to engage with developers, architects, and more to share ideas, ask questions, and build relationships.
+* **Produce**: Walk away with a deeper understanding of emerging trends, insights, and actionable strategies to put into action when you’re back at work.
+* **Grow**: With hands-on workshops and learning about new tools, tips, and tricks from real-life use cases, HasuraCon helps you grow your skill set.
 
 These are indicative topic themes! Please do submit talks even if they don't fit into these themes!
 
-Submit your ideas here -> [Link](https://forms.hasura.io/hascon22-cfp).
+**Agenda:** [https://hasura.io/events/hasura-con-2023](https://hasura.io/events/hasura-con-2023#event-schedule).
