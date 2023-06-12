@@ -8,6 +8,4 @@ Join us for three days to learn, share, celebrate, and geek out on the future of
 * **Produce**: Walk away with a deeper understanding of emerging trends, insights, and actionable strategies to put into action when you’re back at work.
 * **Grow**: With hands-on workshops and learning about new tools, tips, and tricks from real-life use cases, HasuraCon helps you grow your skill set.
 
-These are indicative topic themes! Please do submit talks even if they don't fit into these themes!
-
 **Agenda:** [https://hasura.io/events/hasura-con-2023](https://hasura.io/events/hasura-con-2023#event-schedule).
